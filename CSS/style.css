@@ -155,7 +155,7 @@ input {
 }
 
 .main1-formarea {
-    background: url(/images/book-form-bg.png);
+    background: url(../images/book-form-bg.png);
     background-repeat: no-repeat;
     background-position: top cover;
     max-width: 360px;
